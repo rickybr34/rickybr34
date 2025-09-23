@@ -1,0 +1,34 @@
+# Markov Text Generator & De-Noiser
+
+Generate stylized text and decode noisy strings using a k-order Markov model built from a variety of source corpora.
+
+## Features
+- k-gram model with **circular text** handling for robust edge transitions
+- `gen(kgram, n)` for text synthesis; `replace_unknown(s)` to fill `?` in corrupted input
+- Works across domains: speeches, laws, literature, song lyrics
+- Minimal dependencies (Python stdlib + small helpers)
+
+## Project Structure
+.
+├─ markov_model.py        # core Markov model
+├─ symboltable.py         # minimal map wrapper
+├─ text_generator.py      # CLI: text generation
+├─ fix_corrupted.py       # CLI: de-noising '?'
+├─ notes.txt              # design notes
+└─ data/                  # sample corpora
+
+## Example Corpora
+You can train the Markov model on any of the following (all included in `data/`):
+- **Music**: Beatles lyrics, Pearl Jam lyrics:contentReference[oaicite:0]{index=0}
+- **Politics**: Speeches by Obama, McCain, Biden, Palin, Zell Miller 
+- **Literature**: Aesop’s Fables:contentReference[oaicite:1]{index=1}, Shakespeare librettos, *Mona Lisa* text:contentReference[oaicite:2]{index=2}
+- **Religion & Philosophy**: Bible:contentReference[oaicite:3]{index=3}
+- **Law & Civics**: U.S. Constitution and Amendments:contentReference[oaicite:4]{index=4}
+- **Miscellaneous**: Wiki dumps:contentReference[oaicite:5]{index=5}
+
+This variety makes it easy to generate very different writing styles with the same algorithm.
+
+## Quickstart
+**Generate text** (order k=4, 500 chars) from Beatles lyrics:
+```bash
+python text_generator.py 4 500 < data/Beatles.txt
