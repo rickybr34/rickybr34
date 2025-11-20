@@ -3,7 +3,7 @@
 
 **'Software developer'**
 # 💫 About Me:
-Welcome to my GitHub! I'm a passionate Computer Science student at UMass Boston <br>with a focus on software development, embedded systems, and cybersecurity. <br>I enjoy building clean, efficient, and meaningful projects that solve real-world problems.<br><br>🎯 Currently working on: ios long distance dating app using Swift for couples to interact with each other through games and etc.<br><br>🛠️ Skills: Java • C • Python • Arduino • Embedded Systems • Data Structures • Algorithms<br><br>📚 Learning: Advanced Cybersecurity Concepts,  and Full-Stack Development<br><br>⚡ Fun Fact: I’m also a musician and a guitarist — I love blending creativity with technology.
+Welcome to my GitHub! I'm a passionate Computer Science student at UMass Boston <br>with a focus on software development, embedded systems, and cybersecurity. <br>I love how software helps us connect with people.<br><br>🎯 Currently working on: ios long distance dating app using Swift for couples to interact with each other through games and etc.<br><br>🛠️ Skills: Java • C • Python • Arduino • Embedded Systems • Data Structures • Algorithms<br><br>📚 Learning: Advanced Cybersecurity Concepts,  and Full-Stack Development<br><br>⚡ Fun Fact: I’m also a musician and a guitarist — I love blending creativity with technology.
 
 
 ## 🌐 Socials:
