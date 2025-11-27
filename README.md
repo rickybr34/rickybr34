@@ -2,6 +2,7 @@
 
 
 **'Software developer'**
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickybr34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 # 💫 About Me:
 Welcome to my GitHub! I'm a passionate Computer Science student at UMass Boston <br>with a focus on software development, embedded systems, and cybersecurity. <br>I love how software helps us connect with people.<br><br>🎯 Currently working on: ios long distance dating app using Swift for couples to interact with each other through games and etc.<br><br>🛠️ Skills: Java • C • Python • Arduino • Embedded Systems • Data Structures • Algorithms<br><br>📚 Learning: Advanced Cybersecurity Concepts,  and Full-Stack Development<br><br>⚡ Fun Fact: I’m a guitarist!
 
