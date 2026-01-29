@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate Computer Science student at UMass Boston 
 ---
 
 ### 🏁 Currently Open To
-`Mobile iOS` • `Software Engineering` • `AI/ML & Embedded Internships`
+`Mobile iOS` • `Software Engineering` • `Quantum Computing` • `AI/ML & Embedded Internships`
 
 Thanks for stopping by. If you're here from my portfolio or LinkedIn, I'm always open to building cool things or talking about software.
 
